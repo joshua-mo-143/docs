@@ -15,5 +15,5 @@ To register an MCP server, follow the steps below:
 
 ## Using registered MCP servers with Arc Studio
 Currently there are two main ways we support MCP usage - see the links provided for more information:
-- `<Add it>` as a standalone tool to your workflow
-- `<Pass it>` to an agent and let AI do the work for you
+- [Add it](/02-D%20FMCP%20Fnodes.md) as a standalone tool to your workflow
+- [Pass it](/02-B%20FAI%20Fnodes.md) to an agent and let AI do the work for you
