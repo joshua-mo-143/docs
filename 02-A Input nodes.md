@@ -15,6 +15,8 @@ The following input nodes are supported:
 | Web page    | Browse web pages and extract content as markdown                          |
 | File input  | Upload a file and pass it to your agent (see below)                       |
 | Audio input | Upload audio files and pass them to an AI agent or Whisper for processing |
+
+
 In terms of file input, the following file extensions are supported:
 - PDF (`.pdf`)
 - Markdown (`.md`)
